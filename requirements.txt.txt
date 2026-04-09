@@ -1,0 +1,9 @@
+streamlit
+pandas
+transformers
+torch
+scikit-learn
+numpy
+pillow
+pytesseract
+pymupdf
