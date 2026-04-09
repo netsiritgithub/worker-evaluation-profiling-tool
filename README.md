@@ -53,3 +53,11 @@ The system works with a synthetic dataset (`synthetic_work_logs.csv`) containing
 1. Install dependencies:
    ```bash
    pip install -r requirements.txt
+   
+2. Run the application:
+streamlit run MiniProject.py
+Open the local URL shown in the terminal.
+
+
+Outcome
+This project demonstrates skills in Natural Language Processing, data analysis, text summarization, entity extraction, and building interactive AI applications for organizational decision support.
